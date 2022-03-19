@@ -1,0 +1,23 @@
+{
+  "name": "deposit-return-backend",
+  "version": "0.1.0",
+  "description": "Mock can/bottle deposit machine backend",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmj-ssb/deposit-return/backend"
+  },
+  "author": "Magnus M. Jenssen",
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "log-timestamp": "^0.3.0"
+  }
+}
